@@ -16,5 +16,5 @@ If you encounter an error saying "Multiple commands product" and Xcode saying yo
 
 Now, you should be able to find the screensaver if you search in your Finder. If you can't, in your menu bar, go to: Xcode -> Preferences -> Locations -> Derived Data. You should find a folder called bouncesaver-XXXXXX (your project name). Now navigate to Build -> Products -> Debug -> bouncesaver.saver. Now open the .saver file and install it again.
 
-You have now sucessfully made your tweaked screensaver!
+You have now sucessfully made your own tweaked screensaver!
 
