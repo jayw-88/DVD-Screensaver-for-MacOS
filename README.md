@@ -1,4 +1,4 @@
-# DVD-Screensaver-for-MacOS
+# DVD Screensaver for MacOS
 
 A screensaver for MacOS that recreates the nostalgic DVD screensaver!
 
