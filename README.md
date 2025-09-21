@@ -2,7 +2,7 @@
 
 A screensaver for macOS that recreates the nostalgic DVD screensaver!
 
-This is a recreation of Brian Tracy's DVD screensaver. (If you would like to go to that page, click [here](https://github.com/briantracy/DVDScreenSaver/tree/master)). It is just tweaked to be smoother and more suitable for modern macOS versions.
+This is a recreation of Brian Tracy's DVD screensaver. (If you would like to go to that page, click [here](https://github.com/briantracy/DVDScreenSaver/tree/master)) It is just tweaked to be smoother and more suitable for modern macOS versions.
 
 # Installation Process
 
