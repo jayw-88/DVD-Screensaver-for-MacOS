@@ -8,7 +8,7 @@ This is a recreation of Brian Tracy's DVD screensaver. (If you would like to go 
 
 To install on your Mac, download and unzip the bouncesaver.saver.zip file. You will find a bouncesaver.saver file. Open it, and your System Settings will prompt you to install it. If it says that the developer isn't trusted, head to Settings -> Privacy and Security, scroll down to the bottom, and click Open Anyway. 
 
-# Editing the Screensaver to your own Preferences
+# Editing the Screensaver to Your Own Preference
 
 If you would like to tweak the screensaver to your own liking, click the Code button on GitHub, and click Download Zip. You will find a folder containing all the code you need. At this point, make sure you have Xcode installed. Open the file bouncesaver.xcodeproj, and the code will open up in Xcode. Once you have finished tweaking the code, press Command + B to build your new code.
 
